@@ -40,7 +40,7 @@ Try this with the funcitons below to see what they do.
 ...
 >>> from iab.algorithms import progressive_msa_and_tree, iterative_msa_and_tree, kmer_distance, guide_tree_from_sequences
 ```
-
+test
 The cell below contains the sequences that you will be working with throughout the assignment
 
 ```python
